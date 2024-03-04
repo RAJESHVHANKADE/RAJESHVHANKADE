@@ -32,14 +32,17 @@ Data Science Intern at Yess InfoTech
 
 Bachelor of Engineering in Computer Engineering
 
+
 📫 How to Reach Me:
 
 LinkedIn: https://www.linkedin.com/in/rajesh-vhankade-ab7627215/
 
+
 Email: vhankadenrajesh@gmail.com
 
 ⚡ Fun Fact:
-Fun Fact: Did you know that the term 'data scientist' was coined as recently as 2008? It's a rapidly 
+Fun Fact: Did you know that the term 'data scientist' was coined as recently as 2008? It's a rapidly.
+
 
 Let's connect and collaborate on exciting projects together!
 
