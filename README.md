@@ -1,7 +1,7 @@
 # 🌟 Rajesh Vhankade  
 
 **AI/ML Developer | Generative AI | NLP | Cloud Solutions**  
-**Email**: vhankadenrajesh@gmail.com  
+**Email**: rajesh.vhankaden@gmail.com  
 
 ---
 
@@ -101,12 +101,10 @@ Developed an NLP pipeline to analyze customer feedback and classify sentiments.
 ---
 
 ## 🌐 **Connect With Me**  
-- **LinkedIn**: [Rajesh Vhankade](https://www.linkedin.com/in/rajesh-vhankade-ab7627215/)  
-- **Email**: [vhankadenrajesh@gmail.com](mailto:vhankadenrajesh@gmail.com)  
+- **LinkedIn**:https://www.linkedin.com/in/rajeshnvhankade/ 
+- **Email**: rajesh.vhankaden@gmail.com  
 
 ---
 
-## ⚡ **Fun Fact**  
-Did you know? The term "data scientist" was coined as recently as 2008, marking the dawn of a transformative era in technology.  
 
 ---
