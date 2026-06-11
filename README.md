@@ -50,5 +50,5 @@ Developer-focused MCP server exposing intelligent documentation retrieval tools 
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: [www.linkedin.com/in/rajeshnvhankade](http://www.linkedin.com/in/rajeshnvhankade)
-* 📧 Email: [rajesh.vhankaden@gmail.com](mailto:rajesh.vhankaden@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/rajeshnvhankade](https://www.linkedin.com/in/rajesh-vhankade-08b908413/)
+* 📧 Email: [vhanakadenrajesh@gmail.com](mailto:vhanakadenrajesh@gmail.com)
