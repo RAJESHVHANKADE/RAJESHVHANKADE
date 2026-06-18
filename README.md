@@ -70,25 +70,12 @@ AI-powered employee onboarding and knowledge platform that transforms organizati
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
-* Agentic AI Architectures
-* AI Evaluation & LLMOps
-* Production LangGraph Patterns
-* Multi-Agent Collaboration
+- Agent memory and long-running workflows
+- Human-in-the-loop AI systems
+- AI evaluation frameworks and tracing
+- Scalable RAG architectures
 
 ---
 
