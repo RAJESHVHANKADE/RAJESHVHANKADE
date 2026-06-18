@@ -70,15 +70,6 @@ AI-powered employee onboarding and knowledge platform that transforms organizati
 
 ---
 
-## 🌱 Currently Exploring
-
-- Agent memory and long-running workflows
-- Human-in-the-loop AI systems
-- AI evaluation frameworks and tracing
-- Scalable RAG architectures
-
----
-
 <p align="center">
 <b>Building AI systems that move beyond demos into production.</b>
 </p>
